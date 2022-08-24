@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "co.jp.y*",
+    "package_name": "co.jp.ex.mycomequest",
     "sha256_cert_fingerprints":
     ["E2:47:4D:F3:05:D9:6C:62:47:43:19:D3:17:07:DF:D8:30:1A:08:40:CA:C4:DA:73:2D:FB:56:A4:DF:E2:A6:5B"]
   }
@@ -11,7 +11,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.mycomequest2",
+    "package_name": "com.example.ex",
     "sha256_cert_fingerprints":
     ["F9:F6:BD:89:40:9A:04:34:80:E7:3D:D3:DB:D5:45:D1:A7:77:29:9E:AB:4B:FF:C5:79:1D:71:E4:55:DA:55:39"]
   }
