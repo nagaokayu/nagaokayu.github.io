@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.mycomequest2",
+    "package_name": "com.example.mycomequest",
     "sha256_cert_fingerprints":
     ["76:BD:48:52:E4:B3:80:83:E2:91:65:05:48:E2:5E:B3:8C:FA:AF:B7:DA:EA:AB:0B:DC:73:D8:BB:89:0D:C3:18"]
   }
